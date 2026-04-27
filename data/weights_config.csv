@@ -1,0 +1,9 @@
+factor,weight,description,direction
+credit_score,0.25,Creditworthiness based on credit bureau score,negative
+payment_history,0.20,Historical payment behavior and consistency,negative
+monthly_income,0.10,Monthly gross income in INR,negative
+debt_ratio,0.15,Debt-to-income ratio as percentage,positive
+existing_loans,0.10,Number of active loans,positive
+employment_years,0.05,Years of stable employment,negative
+fraud_alerts,0.10,Number of fraud alerts on record,positive
+security_flags,0.05,Number of security flags triggered,positive
